@@ -21,7 +21,7 @@ understand when investigating incidents or reviewing access controls.
 | Section | Covers |
 |---|---|
 | [01 – Core Infrastructure](./01-Core-Infrastructure) | AD DS setup, DNS, DHCP |
-| [02 – Users & OUs](./02 - Users-And-OUs) | OU design, 60 users across 3 regions |
+| [02 – Users & OUs](./02-Users-And-OUs) | OU design, 60 users across 3 regions |
 | [03 – Certificate Services](./03-Certificate-Services) | AD CS setup and use case |
 | [04 – Client Domain Join](./04-Client-Domain-Join) | Windows 10 joined to domain |
 | [05 – Group Policies](./05-Group-Policies) | Password policy, account lockout, wallpaper, USB block, mapped drives |
