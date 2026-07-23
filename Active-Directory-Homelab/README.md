@@ -14,7 +14,7 @@ understand when investigating incidents or reviewing access controls.
 - **OS:** Windows Server, Windows 10 client
 - **Virtualization:** VMware
 - **Domain:** joshua.local
-- **Scale:** 15+ users across 3 regions and 5 departments
+- **Scale:** 60 users across 3 regions and 5 departments
 
 ## What's in this project
 
