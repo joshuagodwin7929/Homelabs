@@ -20,12 +20,12 @@ understand when investigating incidents or reviewing access controls.
 
 | Section | Covers |
 |---|---|
-| [01 – Core Infrastructure](./01-core-infrastructure) | AD DS setup, DNS, DHCP |
-| [02 – Users & OUs](./02-users-and-ous) | OU design, 60 users across 3 regions |
-| [03 – Certificate Services](./03-certificate-services) | AD CS setup and use case |
-| [04 – Client Domain Join](./04-client-domain-join) | Windows 10 joined to domain |
-| [05 – Group Policies](./05-group-policies) | Password policy, account lockout, wallpaper, USB block, mapped drives |
-| [06 – File Server & Shares](./06-file-server-shares) | File server with 5 department shares |
+| [01 – Core Infrastructure](./01-Core-Infrastructure) | AD DS setup, DNS, DHCP |
+| [02 – Users & OUs](./02-Users-And-OUs) | OU design, 60 users across 3 regions |
+| [03 – Certificate Services](./03-Certificate-Services) | AD CS setup and use case |
+| [04 – Client Domain Join](./04-Client-Domain-Join) | Windows 10 joined to domain |
+| [05 – Group Policies](./05-Group-Policies) | Password policy, account lockout, wallpaper, USB block, mapped drives |
+| [06 – File Server & Shares](./06-File-Server-Shares) | File server with 5 department shares |
 
 ## Why this project
 Most of my early cybersecurity learning happened one post at a time on 
