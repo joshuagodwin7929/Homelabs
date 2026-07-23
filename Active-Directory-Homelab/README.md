@@ -1,6 +1,6 @@
 # Active Directory Homelab
 
-I design a self-built enterprise-style Active Directory environment simulating the 
+I designed a self-built enterprise-style Active Directory environment simulating the 
 core identity, network, and security infrastructure a real organization 
 relies on. This homelab was built to strengthen my hands-on SOC and IT administration skills.
 
