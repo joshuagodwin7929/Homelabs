@@ -15,9 +15,13 @@ assignment.
 
 - 
 - <img width="584" height="416" alt="AD DS Confirmation" src="https://github.com/user-attachments/assets/fe13a76c-b489-4aa6-95c4-d23e28f0d63b" />
+
 - <img width="586" height="416" alt="AD DS Server Role" src="https://github.com/user-attachments/assets/e25857e0-c45f-483d-94f3-ebb7d14ad71c" />
+
 - <img width="587" height="418" alt="AD DS Installation" src="https://github.com/user-attachments/assets/bf0bd402-8c08-4ba3-859f-5d5c22bd4c82" />
+
 - <img width="566" height="415" alt="AD DS Promoting Server" src="https://github.com/user-attachments/assets/18c888e6-8091-43b3-bb9d-277eaf172d10" />
+
 - <img width="568" height="416" alt="AD DS Perequisite check Complete" src="https://github.com/user-attachments/assets/a7c2bdb8-40a2-4703-b495-2e7ec96bf9e3" />
 
 
@@ -30,19 +34,35 @@ assignment.
   for automatic replication
 - Verified resolution using `nslookup` and `Resolve-DnsName`
 - <img width="584" height="416" alt="DNS Server Roles" src="https://github.com/user-attachments/assets/920029d2-47c7-402b-99d7-1a3c51367d1a" />
+
 - <img width="460" height="383" alt="DNS Zones" src="https://github.com/user-attachments/assets/4101258a-3f4e-4b88-a8f0-2798806bbf38" />
-- <img width="685" height="428" alt="DNS Forward Zones" src="https://github.com/user-attachments/assets/fec64650-8f17-4cf7-aa68-e8047a907a6c" />- 
+
+- <img width="685" height="428" alt="DNS Forward Zones" src="https://github.com/user-attachments/assets/fec64650-8f17-4cf7-aa68-e8047a907a6c" />
+
+- <img width="536" height="536" alt="Screenshot 2026-07-24 020327" src="https://github.com/user-attachments/assets/c70bf0c7-0a5c-4332-a2ab-e6fe4f4b52e8" />
+
+- <img width="233" height="264" alt="24 DNS" src="https://github.com/user-attachments/assets/216fcabb-1ecc-471b-a43b-53f4e615cd60" />
+
+- <img width="473" height="251" alt="24 nslookup" src="https://github.com/user-attachments/assets/637f24ee-1c3d-4863-b4b1-19c50fc831c3" />
+
 
 
 ## DHCP
 - Installed the DHCP Server role on [Joshua-Server2022]
-- Created a scope: [IP range, e.g. 192.168.1.150–192.168.1.250]
+- Created a scope: [IP range, e.g. 192.168.18.55–192.168.18.155]
 - Configured lease duration, default gateway, and DNS server options
 - Authorized the DHCP server in Active Directory
 - Verified clients received correct IP, gateway, and DNS settings
+- 
 - <img width="584" height="413" alt="DHCP Installed" src="https://github.com/user-attachments/assets/0aedfe04-1fdc-49fc-b7fa-60a67ff3b76b" />
-- <img width="464" height="439" alt="DHCP IPV4 Scope" src="https://github.com/user-attachments/assets/0a782e80-d32b-4ad8-8570-cf9ef85e94c1" />
-- <img width="465" height="443" alt="DHCP IP 100 Range " src="https://github.com/user-attachments/assets/c61a2dab-f21d-400e-9546-029c58e985f7" />
+
+- <img width="386" height="317" alt="24 DHCP IP Scope" src="https://github.com/user-attachments/assets/7fb2e759-643a-40fc-9d9e-00c2f018ae1a" />
+
+- <img width="383" height="312" alt="24 finished scope" src="https://github.com/user-attachments/assets/4cb23c91-dc6a-427d-8518-2d17684a5d05" />
+
+
+- <img width="685" height="317" alt="24 IP Range" src="https://github.com/user-attachments/assets/687eda3e-0402-43a8-b5f6-89b55880dfc5" />
+
 
 
 ## What This Demonstrates
